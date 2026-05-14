@@ -1,0 +1,15 @@
+{
+    "title": "Random File Tool",
+    "source": "Quelle",
+    "target": "Ziel",
+    "browse": "Durchsuchen",
+    "start": "Start",
+    "finished": "Fertig",
+    "success": "Vorgang erfolgreich abgeschlossen",
+    "copy_only": "Nur kopieren",
+    "zip_only": "Nur ZIP erstellen",
+    "copy_and_zip": "Kopieren + ZIP erstellen",
+    "amount": "Anzahl Dateien",
+    "theme": "Design",
+    "mode": "Modus"
+}
